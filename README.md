@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChrisBosman
+- 👋 Hi, I’m Chris
 <!-- - 👀 I’m interested in ... -->
 - 🌱 I’m currently learning cpp and a bit of java
 <!-- - 💞️ I’m looking to collaborate on ... -->
