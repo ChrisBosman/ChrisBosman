@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chris
 <!-- - 👀 I’m interested in ... -->
-- 🌱 I’m currently learning cpp and a bit of java
+- 🌱 I’m currently learning a bit of rust and I already know my way around cpp
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
 
